@@ -10,9 +10,13 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "bcrypt": "^5.1.1",
+    "firebase": "^10.12.2",
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "sass": "^1.77.4"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.4.5",
